@@ -1,0 +1,11 @@
+{
+    "name":"CuteKittenMe",
+    "description":"Get a cute kitten with an image extension",
+    "author":"Johnny Wey <johnnywey@gmail.com>",
+    "version":"0.1.0",
+    "private":true,
+    "dependencies":{
+        "restify":"1.0.x"
+    },
+    "engine":"node >= 0.6.10"
+}
