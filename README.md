@@ -16,7 +16,7 @@ and then:
 node app.js
 </pre>
 
-Visit http://localhost:5000/200x200.jpg to see a kitten. There is a 95% this kitten will be cute.
+Visit http://localhost:5000/200x200.jpg to see a kitten. There is a 95% chance this kitten will be cute.
 
 The Rules
 ==========
