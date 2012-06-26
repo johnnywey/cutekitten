@@ -9,6 +9,10 @@ I'll checkin the hubot script for campfire when I'm marginally happy with it.
 
 To run:
 <pre>
+npm install
+</pre>
+and then:
+<pre>
 node app.js
 </pre>
 
